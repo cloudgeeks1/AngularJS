@@ -5,7 +5,7 @@ import java.util.List;
 import com.websystique.springmvc.model.User;
 
 
-
+//user service class.
 public interface UserService {
 	
 	User findById(long id);
